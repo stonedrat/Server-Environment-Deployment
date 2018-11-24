@@ -5,3 +5,4 @@
 * <b>Download to Server: </b><br>
 <code>wget http://nginx.org/download/nginx-1.14.1.tar.gz</code><br>
 (Stable version)<br>
+<code>ls</code>`nginx-1.14.1.tar.gz`You can see this file in the current directory<br>
