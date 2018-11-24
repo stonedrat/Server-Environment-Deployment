@@ -10,7 +10,7 @@
 * <b>Go to Folder</b><br>
 <code>cd nginx-1.14.1</code><br>
 * <b>Setup gcc</b><br>
-<code>yum install gcc-c++</code> [GNU Compiler Collection]https://en.wikipedia.org/wiki/GNU_Compiler_Collection<br>
+<code>yum install gcc-c++</code> [@GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)<br>
 
 
 
