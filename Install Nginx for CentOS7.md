@@ -23,7 +23,7 @@
 [GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)<br>
 
 * <b>Setup Pcre-devel</b><br>
-<code>yum install gcc-c++</code><br>
+<code>yum install -y pcre pcre-devel</code><br>
 [PCRE](https://www.pcre.org)<br>
 [Pcre-devel](https://pkgs.org/download/pcre-devel)<br>
 
