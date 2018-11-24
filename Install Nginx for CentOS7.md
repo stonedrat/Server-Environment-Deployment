@@ -19,7 +19,13 @@
 <code>cd nginx-1.14.1</code><br>
 
 * <b>Setup GCC</b><br>
-<code>yum install gcc-c++</code> [GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)<br>
+<code>yum install gcc-c++</code><br>
+[GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)<br>
+
+* <b>Setup Pcre-devel</b><br>
+<code>yum install gcc-c++</code><br>
+[PCRE](https://www.pcre.org)<br>
+[Pcre-devel](https://pkgs.org/download/pcre-devel)<br>
 
 
 * <b>XXXXXXXXXXXXXXXXXXXXXXX</b><br>
