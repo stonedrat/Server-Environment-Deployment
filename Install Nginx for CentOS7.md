@@ -18,11 +18,11 @@
 * <b>Go to Folder</b><br>
 <code>cd nginx-1.14.1</code><br>
 
-* <b>Setup GCC</b><br>
+* <b>Install GCC</b><br>
 <code>yum install gcc-c++</code><br>
 [GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)<br>
 
-* <b>Setup Pcre-devel</b><br>
+* <b>Install Pcre-devel</b><br>
 <code>yum install -y pcre pcre-devel</code><br>
 [PCRE](https://www.pcre.org)<br>
 [Pcre-devel](https://pkgs.org/download/pcre-devel)<br>
